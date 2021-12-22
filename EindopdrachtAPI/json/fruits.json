@@ -1,0 +1,572 @@
+[
+    {
+        "genus": "Malus",
+        "name": "Apple",
+        "id": 6,
+        "family": "Rosaceae",
+        "order": "Rosales",
+        "img": "apple.png",
+        "about": "Apples are a sweet fleshy fruit that grow around the world. Believed to originate in Central Asia, there are now hundreds of varieties of apples, ranging from sweet to sour.Nutritionally speaking, apples are a relatively high-carbohydrate fruit and their most significant nutrient is vitamin C. They’re a very versatile fruit; while often eaten as a snack, they’re also used in a variety of dessert recipes.",
+        "nutritions": {
+            "carbohydrates": 11.4,
+            "protein": 0.3,
+            "fat": 0.4,
+            "calories": 52,
+            "sugar": 10.3
+        },
+        "recept": {
+            "title": "Apple crumble",
+            "imgrecept": "applerecept.jpg",
+            "ingredient1": "6 apples",
+            "ingredient2": "1 el brown sugar",
+            "ingredient3": "½ tl cinnamon powder",
+            "ingredient4": "75 g white sugar",
+            "ingredient5": "100 g butter",
+            "ingredient6": "Salt",
+            "howto": "Schil de appels en verwijder het klokhuis. Snijd de appels in partjes en meng ze met de bruine suiker en het kaneelpoeder. Vet een bakblik (ca. 25×25 cm) in en doe appels erin. Verwarm de oven voor (elektrisch: 200°C / hetelucht: 175°C). Kneed de bloem, de witte basterdsuiker en de boter met een snufje zout tot een kruimelig deeg. Verdeel het deeg over de appels en bak de crumble ca. 35 minuten in de oven. Eet hem warm of koud met wat slagroom of vanillevla."
+        }
+    },
+    {
+        "genus": "Prunus",
+        "name": "Apricot",
+        "id": 35,
+        "family": "Rosaceae",
+        "order": "Rosales",
+        "img": "apricot.jpg",
+        "about": "The apricot is a popular fruit with a light orange color and it is best known for its vitamin A and C content. Apricots also provide various types of polyphenols, such as catechins. Interestingly, apricots require a cold winter to grow properly, so they generally grow in countries experiencing a true four seasons.",
+        "nutritions": {
+            "carbohydrates": 3.9,
+            "protein": 0.5,
+            "fat": 0.1,
+            "calories": 15,
+            "sugar": 3.2
+        },
+        "recept": {
+            "title": "Velvet apricot",
+            "imgrecept": "apricotrecept.jpg",
+            "ingredient1": "300 milliliters sweet white wine",
+            "ingredient2": "1 tablespoon brown sugar",
+            "ingredient3": "1 piece of orange peel",
+            "ingredient4": "1 vanilla pod (cut open)",
+            "ingredient5": "10 dried apricots (pitted)",
+            "ingredient6": "1 tablespoon almond shavings",
+            "howto": "Divide the soaked apricots over 2 coupes and scoop a scoop of whipped ice cream on top. Sprinkle with the almonds and garnish adjacent with some unsprayed rose petals."
+        }
+    },
+    {
+        "genus": "Musa",
+        "name": "Banana",
+        "id": 1,
+        "family": "Musaceae",
+        "order": "Zingiberales",
+        "img": "banana.jpg",
+        "about": "The banana is a tropical fruit with a long body covered in a yellow skin. It’s a very common fruit and—despite needing a hot climate—it’s available in most countries. Since bananas have a very sweet taste, dessert recipes often use them. In particular, banana splits, banana milk, and banana bread are some of the most popular options.Due to their accessibility and inexpensive price, bananas are one of the most popular types of fruit in the world.",
+        "nutritions": {
+            "carbohydrates": 22,
+            "protein": 1,
+            "fat": 0.2,
+            "calories": 96,
+            "sugar": 17.2
+        },
+        "recept": {
+            "title": "Banana split",
+            "imgrecept": "bananarecept.jpg",
+            "ingredient1": "1 pack of wheat flour",
+            "ingredient2": "2 bananas",
+            "ingredient3": "2 eggs",
+            "ingredient4": "knob of butter",
+            "ingredient5": "",
+            "ingredient6": "",
+            "howto": "Mash the bananas finely with a fork. Mix in the eggs and 2 tablespoons of Koopmans Wheat Flour Organic. Melt the butter in a frying pan and place 3 to 4 round mounds of banana pancake batter in the pan. Fry the banana pancakes on both sides until golden brown."
+        }
+    },
+    {
+        "genus": "Fragaria",
+        "name": "Blueberry",
+        "id": 33,
+        "family": "Rosaceae",
+        "order": "Rosales",
+        "img": "blueberry.jpg",
+        "about": "Lauded for their purported health benefits, blueberries are a fruit that just about everyone considers healthy. They are certainly rich in health-protective polyphenols, and they offer a decent selection of vitamins and minerals too. With a deep blue color, they are also attractive in their appearance. On a positive note, research studies demonstrate that blueberries may lower high blood pressure and improve cardiovascular risk factors (8, 9).Blueberries are somewhat low in carbohydrate too, putting them near the top of the low carb list of fruits.",
+        "nutritions": {
+            "carbohydrates": 5.5,
+            "protein": 0,
+            "fat": 0.4,
+            "calories": 29,
+            "sugar": 5.4
+        },
+        "recept": {
+            "title": "Blueberry muffins",
+            "imgrecept": "blueberryrecept.jpg",
+            "ingredient1": "250 g flour",
+            "ingredient2": "200 g sugar (fine)",
+            "ingredient3": "2 eggs",
+            "ingredient4": "75 g white sugar",
+            "ingredient5": "150 ml sunflower oil",
+            "ingredient6": "300 g blueberries",
+            "howto": "Preheat the oven. Place the paper muffin cups in the muffin tray. Mix flour, backin, sugar, vanillinated sugar and salt in a bowl. Beat the eggs with the sunflower oil and buttermilk and add this to the flour mixture. Beat the whole with a whisk to a firm batter. Spoon 150 g blueberries and the blueberry jam through the batter, so that the batter is marbled. Divide the batter evenly among the 12 moulds, they may be filled to the brim. Bake the muffins for 20-25 minutes until golden brown and cooked through. Carefully remove the muffins from the tin and let them cool on a wire rack. Serve the Blueberry Muffins with the remaining blueberries."
+        }
+    },
+    {
+        "genus": "Prunus",
+        "name": "Cherry",
+        "id": 9,
+        "family": "Rosaceae",
+        "order": "None",
+        "img": "cherry.jpg",
+        "about": "Cherries are one of the most popular fruit varieties, and they are technically a drupe – a fruit with a hard stone inside. The cherry is a small fruit with a sweet and juicy taste. There are also two main types of cherry; sour cherries and sweet cherries. These two varieties are fairly similar, but sour cherries have the slightly better nutritional profile.Sour cherries predominantly grow in Russia, Eastern Europe and Southern Asia. On the other hand, Turkey and the United States are the biggest producers of sweet cherries. Cherries are a seasonal fruit, but frozen cherries are available around the year.",
+        "nutritions": {
+            "carbohydrates": 12,
+            "protein": 1,
+            "fat": 0.3,
+            "calories": 50,
+            "sugar": 8
+        },
+        "recept": {
+            "title": "Cherry Chapel",
+            "imgrecept": "cherryrecept.jpg",
+            "ingredient1": "5.5 gr gelatin powder",
+            "ingredient2": "28 gr cold water",
+            "ingredient3": "110 gr cherry puree",
+            "ingredient4": "10 g cabernet",
+            "ingredient5": "sauvignon vinegar",
+            "ingredient6": "25 gr violet sugar",
+            "howto": "Mix the gelatin powder with 28 grams of cold water and let it soak for 20 minutes. Bring the cherry puree, lime juice and cabernet sauvignon vinegar to a boil. Beat the egg yolks and sugar white in a food processor on high speed. Add the cream powder and mix until smooth. Pour the warm cherry juice over the white beaten egg yolks while stirring. Pour the mixture back into the pan and bring to the boil while stirring. Add the gelatin mass and allow to cool covered to 35 °C. Beat the egg whites to stiff peaks in a food processor on medium speed, until doubled in volume. Then gradually add the powdered sugar. Fold the whipped egg white into the already prepared mass in 3 parts. Mix in the whipped cream in 2 parts. Fill a piping bag with the chibouste and fill the mould. Leave to set in the freezer for at least 1 night. Remove the frozen cherry chibouste from the freezer and dip it into the purple glaze with a needle. Let the candied cherry chibouste thaw in the refrigerator."
+        }
+    },
+    {
+        "genus": "Durio",
+        "name": "Durian",
+        "id": 60,
+        "family": "Malvaceae",
+        "order": "Malvales",
+        "img": "durian.jpg",
+        "about": "Known for its peculiar scent, the durian is a giant-sized tropical fruit that’s native to South-East Asia. If you have ever seen a jackfruit, the durian shares a similar appearance—only it’s much larger in size. Durian is a popular culinary fruit and it commonly features in a variety of Thai, Malaysian and Indonesian dishes – both sweet and savory. By “peculiar” scent, what I really mean is “bad”. There are various words to describe this smell, but perhaps the most telling one is “smells like a gym sock.” On the other hand, the taste is pretty good – sweet, creamy, and kind of nutty. Durians have an interesting nutritional profile too. In fact, they are one of the only fruits to contain a decent amount of carbohydrates and fat.",
+        "nutritions": {
+            "carbohydrates": 27.1,
+            "protein": 1.5,
+            "fat": 5.3,
+            "calories": 147,
+            "sugar": 6.75
+        },
+        "recept": {
+            "title": "Ketan durian",
+            "imgrecept": "durianrecept.jpg",
+            "ingredient1": "250 gr ketan",
+            "ingredient2": "4 dl water",
+            "ingredient3": "1/2 cm santen pinch salt",
+            "ingredient4": "1 can durian",
+            "ingredient5": "2 dl water",
+            "ingredient6": "1/2 cm santen",
+            "howto": "Wash 250 gr ketan like rice. When the ketan boils, add a pinch of salt and a piece of santen of about 1/2 cm. Carefully stir once and let the ketan continue to cook like rice. You are now preparing the durian. Bring 2 dl of water to the boil and dissolve 100 g of grated goula djawa in it. Then add about 1/2 cm of santen, a pinch of salt and the contents of a can of durian. You let everything boil until you have a thick paste."
+        }
+    },
+    {
+        "genus": "Vitis",
+        "name": "Grapes",
+        "id": 47,
+        "family": "Vitaceae",
+        "order": "Vitales",
+        "img": "grapes.jpg",
+        "about": "Grapes are one of the most prevalent types of fruit, and we can find them almost everywhere. Grapes are very versatile too, and they form the basis of many different wines, juices, jams, and dessert products. Not many people know this, but grapes are botanically a kind of berry. Although there are thousands of different grape varieties, they are typically classified as either white (green), red, purple, or black. The health benefits of grapes are purported to come from their high polyphenol content. However, grapes are also one of the highest-sugar fruits. As a result, red wine is often thought of as a health drink since it contains concentrated polyphenols and little sugar."
+        ,
+        "nutritions": {
+            "carbohydrates": 18.1,
+            "protein": 0.72,
+            "fat": 0.16,
+            "calories": 69,
+            "sugar": 15.48
+        },
+        "recept": {
+            "title": "Gin Tonic & Grapes",
+            "imgrecept": "grapesrecept.jpg",
+            "ingredient1": "4cl gin",
+            "ingredient2": "12cl tonic",
+            "ingredient3": "2 grapes",
+            "ingredient4": "3 icecubes",
+            "ingredient5": "",
+            "ingredient6": "",
+            "howto": "Place the ice cubes in a glass and pour over the gin. Cut the grapes into slices and divide in the glass. Top up with the well-chilled tonic."
+        }
+    },
+    {
+        "genus": "Psidium",
+        "name": "Guava",
+        "id": 37,
+        "family": "Myrtaceae",
+        "order": "Myrtales",
+        "img": "guava.jpg",
+        "about": "Guava is a tropical fruit that grows in tropical and subtropical areas. Generally speaking, we can find it in Mexico and elsewhere in Central and Southern America. Guava has an interesting appearance and it has a lime-green skin with a pink fleshy center. Depending on the ripeness of the fruit, guavas may taste anything from slightly sour to sweet. Hint: as guava ripens, its green skin will slowly turn to a light yellow color. If you want sweeter tasting guava, go for one which has tinges of yellow on its skin. Nutritionally, guavas are an exceptional provider of vitamin C – just one small fruit supplies 209% of the RDA.",
+        "nutritions": {
+            "carbohydrates": 14,
+            "protein": 2.6,
+            "fat": 1,
+            "calories": 68,
+            "sugar": 9
+        },
+        "recept": {
+            "title": "Guava jam",
+            "imgrecept": "guavarecept.jpg",
+            "ingredient1": "5 guavas",
+            "ingredient2": "2 spoons of sugar",
+            "ingredient3": "water",
+            "ingredient4": "",
+            "ingredient5": "",
+            "ingredient6": "",
+            "howto": "Wash the guavas and cut spots, spots, etc. from the guavas, also remove the (dry) crowns. Cut the guavas into small pieces. Place the guava pieces in a stockpot with plenty of water and cook for about 15 minutes. Drain and puree the guava pieces with a stick blender until smooth. Not all seeds will be pureed, but that's okay. Strain the puree and place in a small saucepan (much less remains) over low heat. Add a few teaspoons of sugar while stirring - to taste - and cook for a few more minutes."
+        }
+    },
+    {
+        "genus": "Citrus",
+        "name": "Lemon",
+        "id": 26,
+        "family": "Rutaceae",
+        "order": "Sapindales",
+        "img": "lemon.jpg",
+        "about": "If you like sour fruits, then here’s another – the lemon is a yellow citrus fruit native to Asia. Lemons house a tart soft flesh behind a thick yellow skin, and they are a famous culinary fruit. For one thing, thousands of recipes call for a squeeze of fresh lemon juice. Lemons also hold value for cleaning uses; the reason for this is their high concentration of citric acid. In addition, there is a wide variety of lemon-based food products, such as lemon cakes, lemon juice, lemon jam, and lemon tea.",
+        "nutritions": {
+            "carbohydrates": 9,
+            "protein": 1.1,
+            "fat": 0.3,
+            "calories": 29,
+            "sugar": 2.5
+        },
+        "recept": {
+            "title": "Lemon curd",
+            "imgrecept": "lemonrecept.jpg",
+            "ingredient1": "2 lemons",
+            "ingredient2": "juice of 2 lemons",
+            "ingredient3": "200 gr sugar",
+            "ingredient4": "2 eggs",
+            "ingredient5": "125 grams unsalted butter",
+            "ingredient6": "200 grams fine granulated sugar",
+            "howto": "Grate the lemons and juice them. Strain the juice briefly to remove skins and seeds. Place the lemon zest, sugar and butter in a bowl. This recipe is made au bain marie, so place the bowl on a pan with a layer of boiling water. Don't set the heat too high. Melt the ingredients in the bowl and stir gently until smooth. When all the butter has melted, add the lemon juice, stir it into the mixture and then add the eggs. Now it's a matter of patience. Check every now and then if there is still enough water in your pan. Keep stirring in the bowl while the lemon curd gets thicker and thicker. If the lemon curd has the thickness of yogurt, it is ready. To give a time indication; this takes about 20 minutes. Pour the lemon curd into a bowl to cool (I made a large portion, a small bowl is enough for this recipe). While the lemon curd cools, it thickens even further to the final correct thickness."
+        }
+    },
+    {
+        "genus": "Citrus",
+        "name": "Lime",
+        "id": 44,
+        "family": "Rutaceae",
+        "order": "Sapindales",
+        "img": "lime.jpg",
+        "about": "Very close in nature to lemons, the lime is another sour citrus fruit. However, they both have a slight difference in flavor – lemons are slightly more tart, while limes are bitter. The flesh of both fruits looks very similar except for the color, and their nutritional profile and health benefits are fairly similar too. There are many different types of lime species, and all are believed to have originated in Indonesia and South-Eastern Asia. Similar to lemons, it is common to use limes for flavor in various drinks, cocktails, and teas.",
+        "nutritions": {
+            "carbohydrates": 8.4,
+            "protein": 0.3,
+            "fat": 0.1,
+            "calories": 25,
+            "sugar": 1.7
+        },
+        "recept": {
+            "title": "Lime pie",
+            "imgrecept": "limerecept.jpg",
+            "ingredient1": "130 grams of butter biscuits or biscuits",
+            "ingredient2": "170 grams of speculaas",
+            "ingredient3": "100 grams of melted butter",
+            "ingredient4": "8 egg yolks",
+            "ingredient5": "30 grams of powdered sugar",
+            "ingredient6": "450 ml lime juice ",
+            "howto": "Grind the biscuits and speculaas in the food processor to a powder. Mix the powder with the butter and sugar. Line the bottom and edges of a springform pan with the dough. Bake the pie crust in the preheated oven for 7 to 8 minutes or until golden brown. Beat the egg yolks one at a time into the condensed milk; stir the mixture after each egg. Add the lime juice, stir well and pour the mixture into the tin. Bake the cake in the oven for 45 minutes. Let the cake cool, sprinkle with the lemon zest and put the cake in the fridge for at least 2 hours. Meanwhile, beat the cream with the icing sugar with an electric mixer until light, foamy. Place the whipped cream in the fridge until ready to use and remove as soon as possible before serving."
+        }
+    },
+    {
+        "genus": "Mangifera",
+        "name": "Mango",
+        "id": 27,
+        "family": "Anacardiaceae",
+        "order": "Sapindales",
+        "img": "mango.jpg",
+        "about": "Sometimes referred to as the “king of fruits”, mangoes are a tropical fruit with extremely sweet and juicy flesh. They are native to South Asia, and they’re a common fruit in countries such as India, the Philippines, and Thailand. Mangoes contain a stone (making them a drupe) surrounded by sweet yellow flesh; this taste is slightly sweet, soft, and tangy.Generally, people eat the fruit in its raw, whole state, but there are also many smoothie and dessert recipes. The sweet taste makes sense when we consider that mangoes are one of the highest carbohydrate/sugar fruits.",
+        "nutritions": {
+            "carbohydrates": 15,
+            "protein": 0.82,
+            "fat": 0.38,
+            "calories": 60,
+            "sugar": 13.7
+        },
+        "recept": {
+            "title": "Chicken with mango",
+            "imgrecept": "mangorecept.jpg",
+            "ingredient1": "500 gr chicken fillet in cubes",
+            "ingredient2": "1 mango",
+            "ingredient3": "1 onion",
+            "ingredient4": "1 tbsp olive oil",
+            "ingredient5": "1 teaspoon ground cumin seeds",
+            "ingredient6": "Pepper and salt",
+            "howto": "Chop the onion and fry it in the olive oil. Add the chicken and fry until lightly browned for 5 minutes. Stir in the snow peas and cook for a further 5 minutes. Sprinkle with salt, pepper and cumin seeds. Peel the mango and cut into pieces. Stir these together with the soy sauce and the pistachios through the chicken. Finely chop the coriander, add and simmer for a further 5 minutes. Cook the rice according to the package. Serve the rice on a plate and scoop the chicken with mango on top. Nice with some prawn crackers."
+        }
+    },
+    {
+        "genus": "Cucumis",
+        "name": "Melon",
+        "id": 41,
+        "family": "Cucurbitaceae",
+        "order": "Cucurbitaceae",
+        "img": "melon.jpg",
+        "about": "Sticking with the higher sugar fruits, melon is another sweet-tasting fleshy fruit. Surprisingly, melons are—botanically speaking—a kind of berry. Not many people realize this since melons look quite a lot different to fruits like strawberries and blueberries! There are many different types of the fruit, and they originate in Africa and South West Asia. Since melons are juicy and refreshing, they enjoy popularity during the summer season.",
+        "nutritions": {
+            "carbohydrates": 8,
+            "protein": 0,
+            "fat": 0,
+            "calories": 34,
+            "sugar": 8
+        },
+        "recept": {
+            "title": "Sweet Melon",
+            "imgrecept": "melonrecept.jpg",
+            "ingredient1": "1l blood orange juice",
+            "ingredient2": "1l sparkling water",
+            "ingredient3": "2 lemons",
+            "ingredient4": "1 melon",
+            "ingredient5": "",
+            "ingredient6": "",
+            "howto": "Cut the melon flesh into cubes. Pour the chilled juices into a large glass bowl. Add the melon cubes and refrigerate for a few hours. Pour in the cooled sparkling water just before serving."
+        }
+    },
+    {
+        "genus": "Citrus",
+        "name": "Orange",
+        "id": 2,
+        "family": "Rutaceae",
+        "order": "Sapindales",
+        "img": "orange.jpg",
+        "about": "Oranges are among the most common fruit in the world. The orange is a citrus fruit and, surprisingly, it is a hybrid rather than an original species. If you didn’t know about this point, then oranges are actually a hybrid of the pomelo and mandarin. Oranges have a tough outer peel that encases the soft, juicy center. Generally speaking, the fruit has a sweet and (very slight) sour taste. However, there are hundreds of orange varieties and they can vary between sweet, bitter, and sour. The sweet varieties are generally the edible kind we find in shops and in orange juice. Oranges are a relatively high-carbohydrate fruit and they provide a decent amount of vitamin C.",
+        "nutritions": {
+            "carbohydrates": 8.3,
+            "protein": 1,
+            "fat": 0.2,
+            "calories": 43,
+            "sugar": 8.2
+        },
+        "recept": {
+            "title": "Canard a l'orange",
+            "imgrecept": "orangerecept.jpg",
+            "ingredient1": "1 carrot",
+            "ingredient2": "1 onion",
+            "ingredient3": "butter",
+            "ingredient4": "2 oranges",
+            "ingredient5": "pepper and salt",
+            "ingredient6": "3 el sugar",
+            "howto": "Clean the duck breast fillet (remove the membrane, the tendon and excess pieces of the fat layer). Keep aside. Season the duck breast fillet with salt and pepper. Heat a dry pan on the stove and fry the duck breast on the fat side for a few minutes and then on the other side. Leave the meat to continue cooking in the oven at 200 degrees for 7 to 10 minutes. Cut one orange into vif. Squeeze the juice from the other two oranges. Make a mirepoix. Roughly chop a carrot, a piece of celery and an onion. Heat a knob of butter in a saucepan on the stove. Add the duck breast offal, the remains of the orange sliced ​​à vif, the mirepoix, sugar, thyme and bay leaf. Let it caramelize and deglaze with white wine vinegar. Let it reduce and then add the veal stock and the orange juice. Reduce again to desired thickness and then pass through sieve. Finish the sauce with a knob of butter. Remove the duck from the oven, cut off the fat and then wrap the duck in aluminum foil. Let rest for five minutes. Just before serving, pop the orange segments in the oven for a while so that they are lukewarm. Cut the fat layer of the duck into fine pieces and fry them in a pan until crispy."
+        }
+    },
+    {
+        "genus": "Carica",
+        "name": "Papaya",
+        "id": 42,
+        "family": "Caricaceae",
+        "order": "Caricacea",
+        "img": "papaya.jpg",
+        "about": "A tropical fruit with an exotic name; the papaya. Papayas originate in Central America and grow in most countries with a tropical climate. Despite previously being thought of as “exotic” they are now easy to find in most countries due to the global fruit trade. The fruit has a smooth outer skin and a soft, reddish-orange flesh inside. Papayas also have a striking appearance, and look like a cross between a giant pear and butternut squash. In terms of flavor, they are not dissimilar to mangoes but they are less sweet in nature.",
+        "nutritions": {
+            "carbohydrates": 11,
+            "protein": 0,
+            "fat": 0.4,
+            "calories": 43,
+            "sugar": 1
+        },
+        "recept": {
+            "title": "Papaya salad",
+            "imgrecept": "papayarecept.jpg",
+            "ingredient1": "1 large green papaya, peeled and deseeded",
+            "ingredient2": "1 Madame Jeanette pepper, deseeded",
+            "ingredient3": "1 tomato, deseeded and diced",
+            "ingredient4": "1 garlic clove, finely chopped",
+            "ingredient5": "1 tbsp. sugar",
+            "ingredient6": "2 tbsp. lime juice",
+            "howto": "Grate the papaya with a fine grater or spiralizer into thin strands. Mix with all the chopped ingredients and let stand for at least 15 minutes."
+        }
+    },
+    {
+        "genus": "Pyrus",
+        "name": "Pear",
+        "id": 4,
+        "family": "Rosaceae",
+        "order": "Rosales",
+        "img": "pear.jpg",
+        "about": "Pears are a delicious, sweet, and juicy fruit. They grow naturally all around the world, but their origin, like many other fruits, lies in China. There are so many different types of pear in the world, ranging from the classic “pear-shaped” European species to the large, round Chinese/Korean pear. However, all pears share the same thin, crisp skin, and sweet, juicy white flesh. Pears have the sweetness of an apple mixed with a kind of mild, citrus-like flavor and smell. The flesh is crunchy as you bite into it, with a large amount of water locked inside.",
+        "nutritions": {
+            "carbohydrates": 15,
+            "protein": 0.4,
+            "fat": 0.1,
+            "calories": 57,
+            "sugar": 10
+        },
+        "recept": {
+            "title": "Pear palava",
+            "imgrecept": "pearrecept.jpg",
+            "ingredient1": "1 Meringue",
+            "ingredient2": "250 grams mascarpone",
+            "ingredient3": "4 tablespoons Crema Limoncello",
+            "ingredient4": "1 lemon",
+            "ingredient5": "1 can Pears in sweet syrup",
+            "ingredient6": "1 box of raspberries or blueberries",
+            "howto": "Make meringue first or buy ready-made Mix the mascarpone with the crema limoncello. Don't use regular limoncello because then the mascarpone will run out With a zest add the lemon zest and this under the mascarpone. Add juice of half a lemon and put mixture in the refrigerator. If you immediately put the mascarpone mixture on the merengue, the merengue will become soggy / wet Caramelize the sugar and pour over the walnuts or hazelnuts. When the caramel has hardened, break it into pieces. Preparation: Set the meringue down and add the mascarpone mixture. Crumble in the caramelized walnuts and hazelnuts. On top of that on the pears (draining beforehand). Divide chocolate sauce and chocolate chips over it and decorate with raspberries or blueberries"
+        }
+    },
+    {
+        "genus": "Diospyros",
+        "name": "Persimmon",
+        "id": 52,
+        "family": "Ebenaceae",
+        "order": "Rosales",
+        "img": "persimmon.jpg",
+        "about": "Persimmons are a commonly available fruit and the typical cultivars are native to East Asia; particularly China, Japan, and Korea. The persimmon fruit is a brilliant bright orange color, and it comes in two distinct varieties. First, the fuyu persimmon looks like a wide-shaped tomato and it has a crisp, slightly sweet and crunchy flesh. Secondly, the Hachiya persimmon has a rounder and taller shape. This particular persimmon has a firm, solid feel while it is fresh and tastes incredibly bitter. As a result, they shouldn’t be eaten until they are fully ripe. When ripe, the fruit becomes extremely soft, and squeezing the fruit should feel like there are large amounts of water inside. Typically, this kind of persimmon is eaten with a spoon since it’s so soft.",
+        "nutritions": {
+            "carbohydrates": 18,
+            "protein": 0,
+            "fat": 0,
+            "calories": 81,
+            "sugar": 18
+        },
+        "recept": {
+            "title": "Persimmon Pudding",
+            "imgrecept": "persimmonrecept.jpg",
+            "ingredient1": "600g persimmons",
+            "ingredient2": "160g water",
+            "ingredient3": "2 tbsp maple syrup",
+            "ingredient4": "",
+            "ingredient5": "",
+            "ingredient6": "",
+            "howto": "Preheat oven to 325 degrees F (165 degrees C). Grease a 9x13-inch baking dish In a mixing bowl, combine persimmon pulp, baking soda, sugar and eggs. Mix well. Add flour, baking powder, cinnamon, vanilla, salt, milk and melted butter. Stir to combine. Pour into baking pan and bake in preheated oven for 55 minutes. The pudding will rise but will fall when removed from oven."
+        }
+    },
+    {
+        "genus": "Ananas",
+        "name": "Pineapple",
+        "id": 10,
+        "family": "Bromeliaceae",
+        "order": "Poales",
+        "img": "pineapple.jpg",
+        "about": "Pineapples are a sweet and slightly sour tropical fruit originating from South America. It is now very common in tropical regions of the world such as the Philippines and the Caribbean. Pineapples have a firm yellow flesh that supplies a juicy, sweet taste. Similar to other tropical fruits, pineapples have many culinary uses. For instance, they’re a popular choice in juices, smoothies, desserts, and even pizzas.",
+        "nutritions": {
+            "carbohydrates": 13.12,
+            "protein": 0.54,
+            "fat": 0.12,
+            "calories": 50,
+            "sugar": 9.85
+        },
+        "recept": {
+            "title": "Pineapple Bowler",
+            "imgrecept": "pineapplerecept.jpg",
+            "ingredient1": "5 cl dark rum",
+            "ingredient2": "1 cl sherry",
+            "ingredient3": "3 cl fresh lime juice",
+            "ingredient4": "2 cl sugar syrup with cinnamon and star anise",
+            "ingredient5": "1 dash angustura bitters",
+            "ingredient6": "1 ice ball",
+            "howto": "Heat the water with the sugar on the stove. When the sugar has dissolved, add the star anise and cinnamon sticks. Let the mixture cool in the pan and pour the syrup into a preserving jar. Let it infuse for 12 hours in the fridge and then strain the syrup (with a cheesecloth if you wish). Store in the fridge."
+        }
+    },
+    {
+        "genus": "Rubus",
+        "name": "Raspberry",
+        "id": 23,
+        "family": "Rosaceae",
+        "order": "Rosales",
+        "img": "raspberry.jpg",
+        "about": "Raspberries are one of the most commonly cultivated fruits in the world and they grow in temperate regions. This variety of fruit has dozens of different cultivars so raspberries can differ in appearance depending on the country. Raspberries grow on raspberry bushes and the fruit itself is composed of dozens of small drupelets. The raspberry has a soft flesh with a slightly sweet and juicy taste.",
+        "nutritions": {
+            "carbohydrates": 12,
+            "protein": 1.2,
+            "fat": 0.7,
+            "calories": 53,
+            "sugar": 4.4
+        },
+        "recept": {
+            "title": "Cîroc Raspberry Tini",
+            "imgrecept": "raspberryrecept.jpg",
+            "ingredient1": "5 raspberries + 1 extra for garnish",
+            "ingredient2": "20 ml raspberry liqueur",
+            "ingredient3": "45 ml Cîroc vodka ice",
+            "ingredient4": "",
+            "ingredient5": "",
+            "ingredient6": "",
+            "howto": "Crush 5 raspberries in a mixing glass. Add raspberry liqueur, Cîroc vodka and ice. Shake vigorously."
+        }
+    },
+    {
+        "genus": "Fragaria",
+        "name": "Strawberry",
+        "id": 3,
+        "family": "Rosaceae",
+        "order": "Rosales",
+        "img": "strawberry.jpg",
+        "about": "The strawberry is one of the most common (and beloved) fruits in the world. Strawberries are thought to be berries, but this is not botanically true, and they are an accessory fruit. Commonly eaten fresh, with cream, or in a range of desserts, strawberries are a soft and sweet-tasting fruit. In addition to their taste, strawberries actually smell sweet too – if that is possible. Given this, strawberry flavors and scents are prevalent in candy, soaps, creams, lip balms and many other products.",
+        "nutritions": {
+            "carbohydrates": 5.5,
+            "protein": 0.8,
+            "fat": 0.4,
+            "calories": 29,
+            "sugar": 5.4
+        },
+        "recept": {
+            "title": "Strawberry daiquiri",
+            "imgrecept": "strawberryrecept.jpg",
+            "ingredient1": "4.5 cl white rum",
+            "ingredient2": "3 cl fresh lime juice",
+            "ingredient3": "2 cl sugar water",
+            "ingredient4": "6 fresh strawberries",
+            "ingredient5": "3 scoops of ice cream",
+            "ingredient6": "type of glass: daiquiri glass",
+            "howto": "Blend the strawberries with the rum, sugar water, lime juice and ice. Serve with a slice of strawberry and a straw."
+        }
+    },
+
+    {
+        "genus": "Citrullus",
+        "name": "Watermelon",
+        "id": 25,
+        "family": "Cucurbitaceae",
+        "order": "Cucurbitales",
+        "img": "watermelon.jpg",
+        "about": "The origin of watermelons is Southern Africa, and it is a large fruit that grows in tropical and subtropical regions. As you might guess from the name, watermelons are another fruit with a high water content; 91.5% to be exact. The fruit can wildly vary in size, with some fruit being a few kilograms in weight, but others reaching gigantic proportions.Apparently, the largest watermelon on record was from Tennessee and weighed in at 159kg (351 pounds).",
+        "nutritions": {
+            "carbohydrates": 8,
+            "protein": 0.6,
+            "fat": 0.2,
+            "calories": 30,
+            "sugar": 6
+        },
+        "recept": {
+            "title": "Daiquiri Watermelon",
+            "imgrecept": "watermelonrecept.jpg",
+            "ingredient1": "Fresh watermelon (4-5 pieces)",
+            "ingredient2": "White rum (1 part)",
+            "ingredient3": "Lime juice (1 half lime)",
+            "ingredient4": "Crushed ice: 1 full glass",
+            "ingredient5": "Garnish: watermelon triangle",
+            "ingredient6": "1 part = 30 ml",
+            "howto": "Use a blender. Start with 4-5 pieces of watermelon and lime juice from half a lime. Also add 1 part rum with a bar mate. Also add some crushed ice before blending (full glass). Blend until you get a smooth liquid. If the color is not red enough, add a few pieces of watermelon until you have the desired beautiful red color. Before pouring, taste whether the cocktail has the right combination of sweet or sour. Not sweet enough? Then add sugar syrup. Not sour enough? Then you need extra lime. Then pour with a strainer into a margarita glass. Nice and full to the brim. Finally, garnish with a nice piece of fresh watermelon."
+        }
+    },
+
+    {
+        "genus": "Solanum",
+        "name": "Tomato",
+        "id": 5,
+        "family": "Solanaceae",
+        "order": "Solanales",
+        "img": "tomato.jpg",
+        "about": "The tomato is the edible berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America.The Nahuatl word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived. Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico. The Aztecs used tomatoes in their cooking at the time of the Spanish conquest of the Aztec Empire, and after the Spanish encountered the tomato for the first time after their contact with the Aztecs, they brought the plant to Europe. From there, the tomato was introduced to other parts of the European-colonized world during the 16th century. Tomatoes are a significant source of umami flavor. The tomato is consumed in diverse ways, raw or cooked, in many dishes, sauces, salads, and drinks. While tomatoes are fruits—botanically classified as berries—they are commonly used as a vegetable ingredient or side dish.",
+        "nutritions": {
+            "carbohydrates": 3.9,
+            "protein": 0.9,
+            "fat": 0.2,
+            "calories": 74,
+            "sugar": 2.6
+        },
+        "recept": {
+            "title": "Virgin Tomato",
+            "imgrecept": "tomatorecept.jpg",
+            "ingredient1": "18cl",
+            "ingredient2": "1 partyscampi's",
+            "ingredient3": "1 cucumber string",
+            "ingredient4": "1 part of a lemon",
+            "ingredient5": "2 icecubes",
+            "ingredient6": "salt",
+            "howto": "Moisten the rim of a cocktail glass and dip in the celery salt. Place the ice cubes in the glass and pour in the tomato juice. Season with a few drops of Tabasco. Add the lemon wedge and serve with the skewer."
+        }
+    }
+]
